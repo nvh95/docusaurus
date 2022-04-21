@@ -63,7 +63,7 @@ Most Docusaurus users configure this plugin through the preset options.
 // Plugin Options: @docusaurus/plugin-google-gtag
 
 const config = {
-  trackingID: '141789564',
+  trackingID: 'G-PQMSH4YMX0',
   anonymizeIP: true,
 };
 ```
